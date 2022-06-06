@@ -191,7 +191,6 @@ strong {
 section {
 	text-align: center;
 }
-
 .text-left {
 	text-align: left !important;
 }
@@ -219,6 +218,7 @@ section {
 .font-normal {
 	font-weight: 400 !important;
 }
+
 
 .font-medium {
 	font-weight: 500 !important;
